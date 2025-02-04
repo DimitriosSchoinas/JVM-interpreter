@@ -56,3 +56,7 @@ comando falhar poderão ser tão diversos como:
   "Invalid Instruction: iiiiii";
 - erro num teste OUnit, em que alguma das funções devolve um inteiro diferente
   daquele que é esperado.
+
+
+Project PDF:
+[lap_handout2 (1).pdf](https://github.com/user-attachments/files/18659987/lap_handout2.1.pdf)
