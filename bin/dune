@@ -1,0 +1,4 @@
+(executable
+ (public_name lap2324P2)
+ (name main)
+ (libraries lap2324P2))

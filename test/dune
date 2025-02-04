@@ -1,0 +1,3 @@
+(test
+ (name utests)
+ (libraries ounit2 lap2324P2))
